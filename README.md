@@ -24,3 +24,7 @@ Sklonuj repozytorium:
 ```bash
 git clone https://github.com/TWOJ_LOGIN/BudgetTracker.git
 cd BudgetTracker# BudgetTracker
+
+Uruchom aplikację:
+
+python main.py
